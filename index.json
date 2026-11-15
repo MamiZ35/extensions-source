@@ -1,0 +1,33 @@
+{
+  "name": "MamiZ35",
+  "badgeLabel": "CST",
+  "signingKey": "b5b3d13ee0264023e7dcc5b906db6518ba0459476d96532134a5e52e669ddbc0",
+  "contact": {
+    "website": "https://github.com/MamiZ35/extensions-source"
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Merlin Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.tr.merlinscans",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/MamiZ35/extensions-source/repo/apk/tachiyomi-tr.merlinscans-v1.6.14.apk",
+          "iconUrl": "https://raw.githubusercontent.com/MamiZ35/extensions-source/repo/icon/eu.kanade.tachiyomi.extension.tr.merlinscans.png",
+          "jarUrl": "https://raw.githubusercontent.com/MamiZ35/extensions-source/repo/apk/tachiyomi-tr.merlinscans-v1.6.14.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106014",
+        "versionName": "1.6.14",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4883620005315879682",
+            "name": "Merlin Scans",
+            "language": "tr",
+            "homeUrl": "https://merlinscans.org"
+          }
+        ]
+      }
+    ]
+  }
+}
